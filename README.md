@@ -1,4 +1,5 @@
 # personal-config
-backup of my config files for vim
 
-adding this vimrc file will allow for creation of pdf documents via pandoc within vim
+Backup of vim configs for Rmarkdown -> pdf through pandoc. Allows for citations, Latex and R (and Python) code chunks all within vim. 
+
+Just add to your vim.rc file 
